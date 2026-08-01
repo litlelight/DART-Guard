@@ -1,0 +1,38 @@
+{
+  "title": "Reference-Conditional Screening for Cross-Farm Adaptation",
+  "upload_type": "software",
+  "description": "Lightweight companion code, public-data manifest, tested screening implementation, runnable CSV example, and reported manuscript tables for reference-conditional governance of cross-farm wind-power forecasting updates.",
+  "creators": [
+    {
+      "name": "Zhang, Yuchen",
+      "affiliation": "INTI International University, Malaysia"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "wind power forecasting",
+    "model update governance",
+    "transfer learning",
+    "negative transfer",
+    "external validation"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-07-27",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.8252025",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.8253010",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.19948235",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and this software package."
+title: "Reference-Conditional Screening for Cross-Farm Adaptation"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Yuchen"
+    affiliation: "INTI International University, Malaysia"
+    email: "i24026647@student.newinti.edu.my"
+version: 1.0.0
+date-released: 2026-07-27
+abstract: >-
+  Upload-ready lightweight companion package for reference-conditional
+  screening of cross-farm wind-power forecasting updates. It includes public
+  data manifests, a tested governance-layer implementation, a CSV command-line
+  workflow, and manuscript tables exported as CSV.
+keywords:
+  - wind power forecasting
+  - model update governance
+  - transfer learning
+  - negative transfer
+  - external validation
+license: MIT
+preferred-citation:
+  type: article
+  title: "When Should Cross-Farm Adaptation Be Deployed? Reference-Conditional Screening for Wind Power Forecasting"
+  authors:
+    - family-names: "Zhang"
+      given-names: "Yuchen"
+  year: 2026
